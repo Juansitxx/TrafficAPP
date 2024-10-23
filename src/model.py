@@ -1,6 +1,6 @@
 import tensorflow as tf
-from tensorflow.keras.models import Sequential # type: ignore
-from tensorflow.keras.layers import Dense, LSTM # type: ignore
+from tensorflow.keras.models
+from tensorflow.keras.layers 
 
 class TrafficModel:
     def __init__(self, time_steps=10):
