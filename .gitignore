@@ -1,0 +1,35 @@
+# Entorno virtual
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribución / empaquetado
+dist/
+build/
+*.egg-info/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de ambiente
+.env
+.env.local
+
+# Archivos de datos
+*.csv
+*.xlsx
+*.xls
+
+# Carpetas de TensorFlow
+logs/
+saved_models/
